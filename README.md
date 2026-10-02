@@ -1,5 +1,7 @@
 # Hi, I'm Badri Vishal 👋
 
+Brilliant Benius: pick the right AI tool for the right task, like a genius.
+
 Founder of **Brilliant Benius** - "become a genius". I sell digital products and connect AI with marketing to drive sales.
 
 ![AI Systems](https://img.shields.io/badge/AI_Systems-4f46e5?style=flat-square)
